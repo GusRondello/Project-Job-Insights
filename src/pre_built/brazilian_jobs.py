@@ -2,7 +2,7 @@ from functools import lru_cache
 from src.insights import jobs
 from typing import List, Dict
 
-
+""" primeiro commit """
 @lru_cache
 def read_brazilian_file(path: str) -> List[Dict]:
     """Reads a portuguese file from a given path and returns its contents
