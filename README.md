@@ -64,23 +64,48 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/membe
 ```
 
 
+### Os outros arquivos foram fornecidos pela [Trybe](https://www.betrybe.com/) para realização do projeto.
+
+
 ## Instalando o Projeto
 
 ### 1. Clone o repositório
 ```
-git clone git@github.com:gusrondello/projeto.git
+git clone git@github.com:GusRondello/Project-Job-Insights.git
 ```
 
   * Entre na pasta do repositório que você acabou de clonar:
 ```
-cd pasta-do-projeto 
+cd Project-Job-Insights
 ```
 
-### 2. Instale as dependências:
-```
-codigo de instalação
-```
+### 2. Crie o Ambiente virtual e Instale as dependências:
 
+```bash
+  $ python3 -m venv .venv
+  ```
+
+  1. **ativar o ambiente virtual**
+
+  ```bash
+  $ source .venv/bin/activate
+  ```
+
+  2. **instalar as dependências no ambiente virtual**
+
+  ```bash
+  $ python3 -m pip install -r dev-requirements.txt
+  ```
+Com o ambiente virtual ativo, as dependências serão instaladas neste ambiente.
+  Quando precisar desativar o ambiente virtual, execute o comando:  
+  ```bash
+  $ deactivate
+  ``` 
+  Lembre-se de ativar novamente quando voltar no projeto.
+
+  O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas no projeto, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
+
+  
 ### 3. Executar o comando para executar o projeto
 ```
 codigo de execução
