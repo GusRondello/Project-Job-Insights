@@ -1,16 +1,3 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
-
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
-
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
 
 
 # Projeto Job Insights
@@ -25,12 +12,20 @@ Nesse projeto eu implementei análises a partir de um conjunto de dados sobre em
 
 Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/member/home/index.htm) e obtidos através do [Kaggle](https://www.kaggle.com/datasets/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
+
 ## Tecnologias Utilizadas
 
-<!-- Lista de Tecnologias utilizadas para do desenvolvimento do projeto -->
-<!-- Utilizar shields-->
+
+- ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57
+)
+- ![Pytest](https://img.shields.io/badge/Pytest-ffde57?style=for-the-badge&logo=pytest&logoColor=4584b6
+)
+- ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black
+)
+
 
 ## Habilidades Utilizadas
+
 
 - Utilização do terminal interativo do Python.
 - Utilização de estruturas condicionais e de repetição.
