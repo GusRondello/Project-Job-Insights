@@ -106,7 +106,7 @@ Com o ambiente virtual ativo, as dependências serão instaladas neste ambiente.
   O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas no projeto, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
 
 
-## 3. Testando o Projeto
+### 3. Testando o Projeto
 > Para executar os testes certifique-se de que você está com o ambiente virtual ativado.
 
   <strong>Executar os testes</strong>
