@@ -146,3 +146,8 @@ Com o ambiente virtual ativo, as dependências serão instaladas neste ambiente.
   ```
 
   Se quiser saber mais sobre a instalação de dependências com `pip`, veja esse [artigo](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1).
+
+
+## Rodando o Projeto no Flask
+
+A aplicação roda no flask para visualização no navegador e é o resultado do desenvolvimento das funções. Para isso, digite o comando ```flask run``` e acesse o site gerado pelo Flask em ```http://localhost:5000```
